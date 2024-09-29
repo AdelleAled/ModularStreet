@@ -4225,3 +4225,1162 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.29-14.55.09:418][ 23]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner Validating asset
 [2024.09.29-14.55.11:649][249]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ModularEnviro does not exist, will not scan.
 [2024.09.29-14.55.11:649][249]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ModularEnviroMap does not exist, will not scan.
+[2024.09.29-14.57.30:529][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof.BP_Roof
+[2024.09.29-14.58.46:181][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-14.59.01:044][246]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.09.29-14.59.01:044][246]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.09.29-14.59.06:034][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-14.59.06:059][556]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof] ([2] browsable assets)...
+[2024.09.29-14.59.06:072][556]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof.BP_Roof]
+[2024.09.29-14.59.06:072][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof]
+[2024.09.29-14.59.06:074][556]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof
+[2024.09.29-14.59.06:074][556]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof16B0FBD349E18077492F31B127C4673E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof.uasset'
+[2024.09.29-14.59.06:081][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.091 ms (total: 1.71 sec)
+[2024.09.29-14.59.06:109][556]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-14.59.06:109][556]LogContentValidation: Enabled validators:
+[2024.09.29-14.59.06:109][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-14.59.06:109][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-14.59.06:109][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-14.59.06:109][556]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof.BP_Roof
+[2024.09.29-14.59.06:109][556]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof Validating asset
+[2024.09.29-14.59.08:405][728]LogSlate: Window 'BP_Roof' being destroyed
+[2024.09.29-14.59.08:410][728]LogSlate: Window 'BP_Roof' being destroyed
+[2024.09.29-14.59.08:435][728]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-14.59.08:435][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-14.59.08:461][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-14.59.49:364][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner.BP_Roof_Corner
+[2024.09.29-14.59.58:033][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope.BP_Roof_Slope
+[2024.09.29-14.59.59:147][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner.BP_Roof_Slope_Corner
+[2024.09.29-14.59.59:759][ 32]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs.BP_Roof_Stairs
+[2024.09.29-15.00.00:311][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner.BP_Roof_Stairs_Corner
+[2024.09.29-15.00.01:004][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile.BP_Roof_Tile
+[2024.09.29-15.00.01:756][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner.BP_Roof_Tile_Corner
+[2024.09.29-15.00.26:475][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.00.27:116][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.00.27:137][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner] ([2] browsable assets)...
+[2024.09.29-15.00.27:147][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner.BP_Roof_Slope_Corner]
+[2024.09.29-15.00.27:147][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner]
+[2024.09.29-15.00.27:150][428]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner
+[2024.09.29-15.00.27:150][428]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_Slope_Corner348CAE044F03FBADD197529B6C96B8A1.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner.uasset'
+[2024.09.29-15.00.27:156][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.931 ms (total: 1.75 sec)
+[2024.09.29-15.00.27:183][428]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.00.27:183][428]LogContentValidation: Enabled validators:
+[2024.09.29-15.00.27:183][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.00.27:183][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.00.27:183][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.00.27:183][428]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner.BP_Roof_Slope_Corner
+[2024.09.29-15.00.27:183][428]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope_Corner Validating asset
+[2024.09.29-15.00.28:885][572]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.00.28:885][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.00.28:912][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.00.34:848][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.09.29-15.00.35:600][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.00.35:629][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope] ([2] browsable assets)...
+[2024.09.29-15.00.35:640][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope.BP_Roof_Slope]
+[2024.09.29-15.00.35:640][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope]
+[2024.09.29-15.00.35:642][141]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope
+[2024.09.29-15.00.35:642][141]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_SlopeC071B9A84A6FE64D4C752FA71EAC644D.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope.uasset'
+[2024.09.29-15.00.35:649][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.615 ms (total: 1.80 sec)
+[2024.09.29-15.00.35:677][141]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.00.35:677][141]LogContentValidation: Enabled validators:
+[2024.09.29-15.00.35:677][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.00.35:677][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.00.35:677][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.00.35:677][141]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope.BP_Roof_Slope
+[2024.09.29-15.00.35:677][141]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Slope Validating asset
+[2024.09.29-15.00.36:735][232]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.00.36:735][232]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.00.36:735][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.00.36:761][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.09.29-15.00.49:214][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.29-15.00.49:876][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.00.49:900][422]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner] ([2] browsable assets)...
+[2024.09.29-15.00.49:911][422]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner.BP_Roof_Corner]
+[2024.09.29-15.00.49:911][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner]
+[2024.09.29-15.00.49:913][422]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner
+[2024.09.29-15.00.49:913][422]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_Corner56EF77EE43F3262AFDF724B1AEAAC36B.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner.uasset'
+[2024.09.29-15.00.49:920][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.646 ms (total: 1.84 sec)
+[2024.09.29-15.00.49:948][422]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.00.49:948][422]LogContentValidation: Enabled validators:
+[2024.09.29-15.00.49:948][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.00.49:948][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.00.49:948][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.00.49:948][422]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner.BP_Roof_Corner
+[2024.09.29-15.00.49:948][422]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Corner Validating asset
+[2024.09.29-15.00.58:885][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.00.58:885][227]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.00.58:885][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.00.58:913][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.29-15.01.05:607][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_ToitPente002.SM_ModularEnviro_m90_ToitPente002
+[2024.09.29-15.01.05:607][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_ToitPente002.SM_ModularEnviro_m90_ToitPente002
+[2024.09.29-15.01.05:608][804]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_ToitPente002.SM_ModularEnviro_m90_ToitPente002 as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap.ModularEnviroMap:PersistentLevel.StaticMeshActor_17
+[2024.09.29-15.01.05:618][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.29-15.01.05:634][804]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2024.09.29-15.01.10:997][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.09.29-15.01.11:690][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.01.11:720][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs] ([2] browsable assets)...
+[2024.09.29-15.01.11:732][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs.BP_Roof_Stairs]
+[2024.09.29-15.01.11:732][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs]
+[2024.09.29-15.01.11:735][329]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs
+[2024.09.29-15.01.11:735][329]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_Stairs9738FDC74CD98BC89357599F797A8F9D.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs.uasset'
+[2024.09.29-15.01.11:741][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.855 ms (total: 1.89 sec)
+[2024.09.29-15.01.11:759][329]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.01.11:759][329]LogContentValidation: Enabled validators:
+[2024.09.29-15.01.11:759][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.01.11:759][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.01.11:759][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.01.11:759][329]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs.BP_Roof_Stairs
+[2024.09.29-15.01.11:759][329]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs Validating asset
+[2024.09.29-15.01.12:985][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.01.12:985][426]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.01.12:985][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.01.13:014][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.29-15.01.42:979][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.01.43:681][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.01.43:706][931]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner] ([2] browsable assets)...
+[2024.09.29-15.01.43:718][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner.BP_Roof_Stairs_Corner]
+[2024.09.29-15.01.43:718][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner]
+[2024.09.29-15.01.43:720][931]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner
+[2024.09.29-15.01.43:720][931]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_Stairs_CornerBA440C6449EEB316E771799C995768C8.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner.uasset'
+[2024.09.29-15.01.43:727][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.411 ms (total: 1.94 sec)
+[2024.09.29-15.01.43:745][931]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.01.43:745][931]LogContentValidation: Enabled validators:
+[2024.09.29-15.01.43:745][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.01.43:745][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.01.43:745][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.01.43:745][931]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner.BP_Roof_Stairs_Corner
+[2024.09.29-15.01.43:745][931]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Stairs_Corner Validating asset
+[2024.09.29-15.01.47:143][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.01.47:143][224]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.01.47:143][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.01.47:166][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.29-15.01.53:343][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.09.29-15.01.54:575][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.01.54:594][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile] ([2] browsable assets)...
+[2024.09.29-15.01.54:604][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile.BP_Roof_Tile]
+[2024.09.29-15.01.54:604][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile]
+[2024.09.29-15.01.54:606][861]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile
+[2024.09.29-15.01.54:607][861]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_TileE766E3974A7B344B47FE4AB0968C8AB9.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile.uasset'
+[2024.09.29-15.01.54:613][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.172 ms (total: 1.98 sec)
+[2024.09.29-15.01.54:642][861]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.01.54:642][861]LogContentValidation: Enabled validators:
+[2024.09.29-15.01.54:642][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.01.54:642][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.01.54:642][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.01.54:642][861]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile.BP_Roof_Tile
+[2024.09.29-15.01.54:642][861]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile Validating asset
+[2024.09.29-15.01.56:166][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.01.56:166][  0]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.01.56:166][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.01.56:191][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.02.00:393][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.09.29-15.02.01:190][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.02.01:211][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner] ([2] browsable assets)...
+[2024.09.29-15.02.01:222][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner.BP_Roof_Tile_Corner]
+[2024.09.29-15.02.01:222][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner]
+[2024.09.29-15.02.01:225][433]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner
+[2024.09.29-15.02.01:225][433]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Roof_Tile_Corner99DE050A4156991A356684ABF079D4CB.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner.uasset'
+[2024.09.29-15.02.01:231][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.654 ms (total: 2.02 sec)
+[2024.09.29-15.02.01:259][433]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.02.01:259][433]LogContentValidation: Enabled validators:
+[2024.09.29-15.02.01:259][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.02.01:259][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.02.01:259][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.02.01:259][433]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner.BP_Roof_Tile_Corner
+[2024.09.29-15.02.01:259][433]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Roofs/BP_Roof_Tile_Corner Validating asset
+[2024.09.29-15.02.05:714][846]LogSlate: Window 'BP_Roof_Tile_Corner' being destroyed
+[2024.09.29-15.02.05:720][846]LogSlate: Window 'BP_Roof_Tile_Corner' being destroyed
+[2024.09.29-15.02.05:722][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.02.05:722][846]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.02.05:722][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.02.05:748][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.02.12:648][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier.BP_Barrier
+[2024.09.29-15.02.13:317][670]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner.BP_Barrier_Corner
+[2024.09.29-15.02.13:829][705]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration.BP_BeamDecoration
+[2024.09.29-15.02.14:483][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner.BP_BeamDecoration_Corner
+[2024.09.29-15.02.15:129][805]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney.BP_Chimney
+[2024.09.29-15.02.15:713][845]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole.BP_ElectricPole
+[2024.09.29-15.02.16:281][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation.BP_FloorElevation
+[2024.09.29-15.02.16:847][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner.BP_FloorElevation_Corner
+[2024.09.29-15.02.17:517][970]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner.BP_LowWall_Corner
+[2024.09.29-15.02.18:263][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover.BP_ManholeCover
+[2024.09.29-15.02.18:796][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront.BP_Storefront
+[2024.09.29-15.02.19:364][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner.BP_Storefront_Corner
+[2024.09.29-15.02.19:913][129]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner.BP_Wall_Corner
+[2024.09.29-15.02.21:093][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation.BP_WallVentilation
+[2024.09.29-15.02.38:891][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.29-15.02.39:622][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.02.39:648][553]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation] ([2] browsable assets)...
+[2024.09.29-15.02.39:661][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation.BP_WallVentilation]
+[2024.09.29-15.02.39:661][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation]
+[2024.09.29-15.02.39:663][553]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation
+[2024.09.29-15.02.39:664][553]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_WallVentilationCCB74AE34B99658C1B11A19955C4F7B4.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation.uasset'
+[2024.09.29-15.02.39:671][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.487 ms (total: 2.07 sec)
+[2024.09.29-15.02.39:696][553]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.02.39:696][553]LogContentValidation: Enabled validators:
+[2024.09.29-15.02.39:696][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.02.39:696][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.02.39:696][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.02.39:696][553]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation.BP_WallVentilation
+[2024.09.29-15.02.39:696][553]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_WallVentilation Validating asset
+[2024.09.29-15.02.41:371][685]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.02.41:372][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.02.41:403][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.09.29-15.02.53:950][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.29-15.02.55:622][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.02.55:650][797]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner] ([2] browsable assets)...
+[2024.09.29-15.02.55:663][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner.BP_Wall_Corner]
+[2024.09.29-15.02.55:663][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner]
+[2024.09.29-15.02.55:665][797]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner
+[2024.09.29-15.02.55:665][797]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Wall_Corner94934B05434E089AFBA53F94C9FC1419.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner.uasset'
+[2024.09.29-15.02.55:672][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.255 ms (total: 2.12 sec)
+[2024.09.29-15.02.55:697][797]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.02.55:697][797]LogContentValidation: Enabled validators:
+[2024.09.29-15.02.55:697][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.02.55:697][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.02.55:697][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.02.55:697][797]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner.BP_Wall_Corner
+[2024.09.29-15.02.55:697][797]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Wall_Corner Validating asset
+[2024.09.29-15.02.57:005][899]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.02.57:005][899]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.02.57:005][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.02.57:031][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.29-15.03.05:061][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.29-15.03.05:634][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.03.05:655][563]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner] ([2] browsable assets)...
+[2024.09.29-15.03.05:668][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner.BP_Storefront_Corner]
+[2024.09.29-15.03.05:668][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner]
+[2024.09.29-15.03.05:671][563]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner
+[2024.09.29-15.03.05:671][563]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Storefront_Corner4F026316451409F446CCB0B1F52E5B27.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner.uasset'
+[2024.09.29-15.03.05:678][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.475 ms (total: 2.16 sec)
+[2024.09.29-15.03.05:704][563]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.03.05:704][563]LogContentValidation: Enabled validators:
+[2024.09.29-15.03.05:704][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.03.05:704][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.03.05:704][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.03.05:704][563]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner.BP_Storefront_Corner
+[2024.09.29-15.03.05:704][563]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront_Corner Validating asset
+[2024.09.29-15.03.07:225][679]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.03.07:225][679]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.03.07:225][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.03.07:252][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.03.13:535][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.29-15.03.14:276][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.03.14:301][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront] ([2] browsable assets)...
+[2024.09.29-15.03.14:313][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront.BP_Storefront]
+[2024.09.29-15.03.14:313][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront]
+[2024.09.29-15.03.14:316][210]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront
+[2024.09.29-15.03.14:316][210]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Storefront9F4F19064AA5375BD08B468F9005D572.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront.uasset'
+[2024.09.29-15.03.14:323][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.788 ms (total: 2.21 sec)
+[2024.09.29-15.03.14:351][210]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.03.14:351][210]LogContentValidation: Enabled validators:
+[2024.09.29-15.03.14:351][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.03.14:351][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.03.14:351][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.03.14:351][210]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront.BP_Storefront
+[2024.09.29-15.03.14:351][210]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Storefront Validating asset
+[2024.09.29-15.03.16:625][388]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.03.16:625][388]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.03.16:625][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.03.16:653][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.09.29-15.03.34:141][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_BoucheDegouts001.SM_ModularEnviro_m90_BoucheDegouts001
+[2024.09.29-15.03.34:141][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_BoucheDegouts001.SM_ModularEnviro_m90_BoucheDegouts001
+[2024.09.29-15.03.34:141][660]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModularEnvironment/FBX_import/FBX_v01/SM_ModularEnviro_m90_BoucheDegouts001.SM_ModularEnviro_m90_BoucheDegouts001 as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap.ModularEnviroMap:PersistentLevel.StaticMeshActor_26
+[2024.09.29-15.03.34:423][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.03.34:441][681]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2024.09.29-15.03.37:404][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.03.38:018][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.03.38:045][962]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover] ([2] browsable assets)...
+[2024.09.29-15.03.38:057][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover.BP_ManholeCover]
+[2024.09.29-15.03.38:057][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover]
+[2024.09.29-15.03.38:060][962]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover
+[2024.09.29-15.03.38:060][962]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_ManholeCover65CE677944278A827B27C5A60E1953F0.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover.uasset'
+[2024.09.29-15.03.38:067][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.676 ms (total: 2.26 sec)
+[2024.09.29-15.03.38:092][962]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.03.38:092][962]LogContentValidation: Enabled validators:
+[2024.09.29-15.03.38:092][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.03.38:092][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.03.38:092][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.03.38:092][962]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover.BP_ManholeCover
+[2024.09.29-15.03.38:092][962]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ManholeCover Validating asset
+[2024.09.29-15.03.39:416][ 67]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.03.39:416][ 67]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.03.39:416][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.03.39:445][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.03.50:615][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.09.29-15.03.51:629][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.03.51:656][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner] ([2] browsable assets)...
+[2024.09.29-15.03.51:668][963]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner.BP_LowWall_Corner]
+[2024.09.29-15.03.51:668][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner]
+[2024.09.29-15.03.51:671][963]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner
+[2024.09.29-15.03.51:671][963]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_LowWall_Corner2316C50244ADCBD88094038FD0118E1A.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner.uasset'
+[2024.09.29-15.03.51:678][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.444 ms (total: 2.31 sec)
+[2024.09.29-15.03.51:704][963]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.03.51:704][963]LogContentValidation: Enabled validators:
+[2024.09.29-15.03.51:704][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.03.51:704][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.03.51:704][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.03.51:704][963]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner.BP_LowWall_Corner
+[2024.09.29-15.03.51:704][963]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_LowWall_Corner Validating asset
+[2024.09.29-15.03.54:286][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.03.54:286][159]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.03.54:286][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.03.54:313][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.04.21:312][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.29-15.04.22:261][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.04.22:280][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner] ([2] browsable assets)...
+[2024.09.29-15.04.22:293][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner.BP_FloorElevation_Corner]
+[2024.09.29-15.04.22:293][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner]
+[2024.09.29-15.04.22:295][336]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner
+[2024.09.29-15.04.22:295][336]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_FloorElevation_Corner11B5AFE642CF88DD38A3C8891A31E228.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner.uasset'
+[2024.09.29-15.04.22:302][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.653 ms (total: 2.35 sec)
+[2024.09.29-15.04.22:329][336]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.04.22:329][336]LogContentValidation: Enabled validators:
+[2024.09.29-15.04.22:329][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.04.22:329][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.04.22:329][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.04.22:329][336]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner.BP_FloorElevation_Corner
+[2024.09.29-15.04.22:329][336]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation_Corner Validating asset
+[2024.09.29-15.04.23:786][454]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.04.23:786][454]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.04.23:786][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.04.23:816][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.29-15.04.29:372][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.04.30:060][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.04.30:086][943]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation] ([2] browsable assets)...
+[2024.09.29-15.04.30:097][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation.BP_FloorElevation]
+[2024.09.29-15.04.30:097][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation]
+[2024.09.29-15.04.30:100][943]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation
+[2024.09.29-15.04.30:101][943]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_FloorElevation480811684C337EF8B2BC2BB1DFAEB372.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation.uasset'
+[2024.09.29-15.04.30:107][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.569 ms (total: 2.39 sec)
+[2024.09.29-15.04.30:133][943]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.04.30:133][943]LogContentValidation: Enabled validators:
+[2024.09.29-15.04.30:133][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.04.30:133][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.04.30:133][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.04.30:133][943]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation.BP_FloorElevation
+[2024.09.29-15.04.30:133][943]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_FloorElevation Validating asset
+[2024.09.29-15.04.31:185][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.04.31:185][ 24]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.04.31:185][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.04.31:212][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.04.44:499][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.09.29-15.04.45:146][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.04.45:175][185]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole] ([2] browsable assets)...
+[2024.09.29-15.04.45:186][185]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole.BP_ElectricPole]
+[2024.09.29-15.04.45:187][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole]
+[2024.09.29-15.04.45:189][185]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole
+[2024.09.29-15.04.45:189][185]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_ElectricPole9123F3CE4F07D17BB40BC3AA6E8F977E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole.uasset'
+[2024.09.29-15.04.45:195][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.345 ms (total: 2.44 sec)
+[2024.09.29-15.04.45:223][185]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.04.45:223][185]LogContentValidation: Enabled validators:
+[2024.09.29-15.04.45:223][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.04.45:223][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.04.45:223][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.04.45:223][185]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole.BP_ElectricPole
+[2024.09.29-15.04.45:223][185]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_ElectricPole Validating asset
+[2024.09.29-15.04.46:426][282]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.04.46:426][282]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.04.46:426][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.04.46:454][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.29-15.05.03:635][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.05.04:343][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.05.04:371][679]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney] ([2] browsable assets)...
+[2024.09.29-15.05.04:383][679]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney.BP_Chimney]
+[2024.09.29-15.05.04:383][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney]
+[2024.09.29-15.05.04:386][679]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney
+[2024.09.29-15.05.04:387][679]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Chimney7EB6A5BE4273884B7A0580B7413D574F.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney.uasset'
+[2024.09.29-15.05.04:394][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.430 ms (total: 2.49 sec)
+[2024.09.29-15.05.04:417][679]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.05.04:417][679]LogContentValidation: Enabled validators:
+[2024.09.29-15.05.04:417][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.05.04:417][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.05.04:417][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.05.04:417][679]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney.BP_Chimney
+[2024.09.29-15.05.04:417][679]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Chimney Validating asset
+[2024.09.29-15.05.05:985][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.05.05:985][807]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.05.05:985][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.05.06:012][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.05.18:958][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.05.19:661][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.05.19:690][930]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner] ([2] browsable assets)...
+[2024.09.29-15.05.19:701][930]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner.BP_BeamDecoration_Corner]
+[2024.09.29-15.05.19:701][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner]
+[2024.09.29-15.05.19:704][930]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner
+[2024.09.29-15.05.19:704][930]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_BeamDecoration_Corner88E566FA46AB808015844F864763D130.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner.uasset'
+[2024.09.29-15.05.19:711][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.951 ms (total: 2.54 sec)
+[2024.09.29-15.05.19:739][930]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.05.19:739][930]LogContentValidation: Enabled validators:
+[2024.09.29-15.05.19:739][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.05.19:739][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.05.19:739][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.05.19:739][930]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner.BP_BeamDecoration_Corner
+[2024.09.29-15.05.19:739][930]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration_Corner Validating asset
+[2024.09.29-15.05.20:837][ 21]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.05.20:837][ 21]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.05.20:837][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.05.20:864][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.05.24:693][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.29-15.05.25:332][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.05.25:354][368]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration] ([2] browsable assets)...
+[2024.09.29-15.05.25:366][368]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration.BP_BeamDecoration]
+[2024.09.29-15.05.25:366][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration]
+[2024.09.29-15.05.25:368][368]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration
+[2024.09.29-15.05.25:369][368]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_BeamDecorationF05D156C4444A850F88965863D0AF9CF.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration.uasset'
+[2024.09.29-15.05.25:375][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.087 ms (total: 2.59 sec)
+[2024.09.29-15.05.25:403][368]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.05.25:403][368]LogContentValidation: Enabled validators:
+[2024.09.29-15.05.25:403][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.05.25:403][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.05.25:403][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.05.25:403][368]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration.BP_BeamDecoration
+[2024.09.29-15.05.25:403][368]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_BeamDecoration Validating asset
+[2024.09.29-15.05.28:792][655]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.05.28:792][655]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.05.28:792][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.05.28:824][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.05.37:423][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.29-15.05.37:930][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.05.37:958][364]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner] ([2] browsable assets)...
+[2024.09.29-15.05.37:970][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner.BP_Barrier_Corner]
+[2024.09.29-15.05.37:970][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner]
+[2024.09.29-15.05.37:973][364]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner
+[2024.09.29-15.05.37:973][364]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_Barrier_Corner080D6DD4421BFC7B27062EB196707908.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner.uasset'
+[2024.09.29-15.05.37:980][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.393 ms (total: 2.64 sec)
+[2024.09.29-15.05.38:007][364]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.05.38:007][364]LogContentValidation: Enabled validators:
+[2024.09.29-15.05.38:007][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.05.38:007][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.05.38:007][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.05.38:007][364]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner.BP_Barrier_Corner
+[2024.09.29-15.05.38:007][364]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier_Corner Validating asset
+[2024.09.29-15.05.39:246][465]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.05.39:246][465]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.05.39:246][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.05.39:278][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.05.42:781][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.05.43:773][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.05.43:805][805]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier] ([2] browsable assets)...
+[2024.09.29-15.05.43:823][805]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier.BP_Barrier]
+[2024.09.29-15.05.43:823][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier]
+[2024.09.29-15.05.43:827][805]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier
+[2024.09.29-15.05.43:827][805]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_BarrierB9F5F58A4DF99340844BC1BAEA331D04.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier.uasset'
+[2024.09.29-15.05.43:836][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.467 ms (total: 2.70 sec)
+[2024.09.29-15.05.43:863][805]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.05.43:863][805]LogContentValidation: Enabled validators:
+[2024.09.29-15.05.43:863][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.05.43:863][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.05.43:863][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.05.43:863][805]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier.BP_Barrier
+[2024.09.29-15.05.43:863][805]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Decorations/BP_Barrier Validating asset
+[2024.09.29-15.05.51:388][437]LogSlate: Window 'BP_Barrier' being destroyed
+[2024.09.29-15.05.51:396][437]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.05.51:396][437]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.05.51:396][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.05.51:426][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.09.29-15.06.07:317][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground.BP_120_Ground
+[2024.09.29-15.06.07:947][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner.BP_120_WaterPath_Corner
+[2024.09.29-15.06.08:463][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground.BP_240_Ground
+[2024.09.29-15.06.09:250][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk.BP_SideWalk
+[2024.09.29-15.06.09:833][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath.BP_WaterPath
+[2024.09.29-15.06.10:451][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer.BP_WaterPath_Sewer
+[2024.09.29-15.06.11:008][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner.BP_WaterPath_Sewer_Corner
+[2024.09.29-15.06.32:007][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.06.32:664][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.06.32:694][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner] ([2] browsable assets)...
+[2024.09.29-15.06.32:706][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner.BP_WaterPath_Sewer_Corner]
+[2024.09.29-15.06.32:706][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner]
+[2024.09.29-15.06.32:708][127]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner
+[2024.09.29-15.06.32:709][127]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_WaterPath_Sewer_CornerBF79D46C42A126C3DD503282139FA49B.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner.uasset'
+[2024.09.29-15.06.32:715][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.267 ms (total: 2.75 sec)
+[2024.09.29-15.06.32:743][127]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.06.32:743][127]LogContentValidation: Enabled validators:
+[2024.09.29-15.06.32:743][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.06.32:743][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.06.32:743][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.06.32:743][127]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner.BP_WaterPath_Sewer_Corner
+[2024.09.29-15.06.32:743][127]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer_Corner Validating asset
+[2024.09.29-15.06.35:500][362]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.06.35:500][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.06.35:525][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.06.40:857][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.09.29-15.06.41:987][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.06.42:016][907]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer] ([2] browsable assets)...
+[2024.09.29-15.06.42:027][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer.BP_WaterPath_Sewer]
+[2024.09.29-15.06.42:027][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer]
+[2024.09.29-15.06.42:029][907]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer
+[2024.09.29-15.06.42:029][907]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_WaterPath_SewerF2C6150F40173BFB0121DFB610B3D52B.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer.uasset'
+[2024.09.29-15.06.42:035][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.787 ms (total: 2.80 sec)
+[2024.09.29-15.06.42:063][907]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.06.42:063][907]LogContentValidation: Enabled validators:
+[2024.09.29-15.06.42:063][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.06.42:063][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.06.42:063][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.06.42:063][907]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer.BP_WaterPath_Sewer
+[2024.09.29-15.06.42:063][907]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath_Sewer Validating asset
+[2024.09.29-15.06.43:206][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.06.43:206][999]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.06.43:206][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.06.43:234][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.06.48:459][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.29-15.06.49:239][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.06.49:265][468]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath] ([2] browsable assets)...
+[2024.09.29-15.06.49:277][468]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath.BP_WaterPath]
+[2024.09.29-15.06.49:277][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath]
+[2024.09.29-15.06.49:280][468]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath
+[2024.09.29-15.06.49:280][468]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_WaterPathA1B2658B4389867E3C0975A85E4919C7.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath.uasset'
+[2024.09.29-15.06.49:286][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.519 ms (total: 2.84 sec)
+[2024.09.29-15.06.49:313][468]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.06.49:313][468]LogContentValidation: Enabled validators:
+[2024.09.29-15.06.49:313][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.06.49:313][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.06.49:313][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.06.49:313][468]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath.BP_WaterPath
+[2024.09.29-15.06.49:314][468]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_WaterPath Validating asset
+[2024.09.29-15.06.50:436][560]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.06.50:436][560]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.06.50:436][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.06.50:465][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.06.56:215][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.06.57:288][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.06.57:314][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk] ([2] browsable assets)...
+[2024.09.29-15.06.57:327][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk.BP_SideWalk]
+[2024.09.29-15.06.57:327][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk]
+[2024.09.29-15.06.57:330][144]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk
+[2024.09.29-15.06.57:330][144]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_SideWalkCA81D9D54AE427FF48C974B8D82CF7E5.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk.uasset'
+[2024.09.29-15.06.57:337][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.831 ms (total: 2.89 sec)
+[2024.09.29-15.06.57:362][144]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.06.57:362][144]LogContentValidation: Enabled validators:
+[2024.09.29-15.06.57:362][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.06.57:362][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.06.57:362][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.06.57:362][144]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk.BP_SideWalk
+[2024.09.29-15.06.57:362][144]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_SideWalk Validating asset
+[2024.09.29-15.06.59:306][309]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.06.59:306][309]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.06.59:306][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.06.59:335][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.29-15.07.12:631][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.07.13:373][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.07.13:397][382]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground] ([2] browsable assets)...
+[2024.09.29-15.07.13:408][382]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground.BP_240_Ground]
+[2024.09.29-15.07.13:408][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground]
+[2024.09.29-15.07.13:411][382]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground
+[2024.09.29-15.07.13:411][382]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_240_Ground8C3DC52640576C28E84DF2B33951212E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground.uasset'
+[2024.09.29-15.07.13:419][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.463 ms (total: 2.94 sec)
+[2024.09.29-15.07.13:444][382]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.07.13:444][382]LogContentValidation: Enabled validators:
+[2024.09.29-15.07.13:444][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.07.13:444][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.07.13:444][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.07.13:444][382]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground.BP_240_Ground
+[2024.09.29-15.07.13:444][382]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_240_Ground Validating asset
+[2024.09.29-15.07.14:436][459]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.07.14:436][459]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.07.14:436][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.07.14:463][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.07.20:886][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.29-15.07.21:689][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.07.21:716][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner] ([2] browsable assets)...
+[2024.09.29-15.07.21:727][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner.BP_120_WaterPath_Corner]
+[2024.09.29-15.07.21:727][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner]
+[2024.09.29-15.07.21:729][  8]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner
+[2024.09.29-15.07.21:730][  8]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_WaterPath_Corner946054494115E366BC9C0A8A2943375A.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner.uasset'
+[2024.09.29-15.07.21:736][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.492 ms (total: 2.99 sec)
+[2024.09.29-15.07.21:764][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.07.21:764][  8]LogContentValidation: Enabled validators:
+[2024.09.29-15.07.21:764][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.07.21:764][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.07.21:764][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.07.21:764][  8]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner.BP_120_WaterPath_Corner
+[2024.09.29-15.07.21:764][  8]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_WaterPath_Corner Validating asset
+[2024.09.29-15.07.25:246][271]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.07.25:246][271]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.07.25:246][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.07.25:273][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.29-15.07.37:208][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.29-15.07.37:699][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.07.37:730][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground] ([2] browsable assets)...
+[2024.09.29-15.07.37:744][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground.BP_120_Ground]
+[2024.09.29-15.07.37:744][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground]
+[2024.09.29-15.07.37:746][189]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground
+[2024.09.29-15.07.37:746][189]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_Ground38483D1C4BA0A4541046FE9C40CCB835.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground.uasset'
+[2024.09.29-15.07.37:753][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.370 ms (total: 3.04 sec)
+[2024.09.29-15.07.37:779][189]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.07.37:779][189]LogContentValidation: Enabled validators:
+[2024.09.29-15.07.37:779][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.07.37:779][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.07.37:779][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.07.37:779][189]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground.BP_120_Ground
+[2024.09.29-15.07.37:779][189]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BluePrint_Grounds/BP_120_Ground Validating asset
+[2024.09.29-15.07.39:008][293]LogSlate: Window 'BP_120_Ground' being destroyed
+[2024.09.29-15.07.39:013][293]LogSlate: Window 'BP_120_Ground' being destroyed
+[2024.09.29-15.07.39:015][293]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.07.39:015][293]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.07.39:015][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.07.39:046][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.07.45:201][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor.BP_120_BalconyDoor
+[2024.09.29-15.07.45:760][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow.BP_120_BalconyWindow
+[2024.09.29-15.07.46:296][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.BP_120_Door
+[2024.09.29-15.07.46:801][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony.BP_120_GroundBalcony
+[2024.09.29-15.07.47:380][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor
+[2024.09.29-15.07.47:950][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow.BP_120_LittleWindow
+[2024.09.29-15.07.48:646][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall.BP_120_Wall
+[2024.09.29-15.07.49:196][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window.BP_120_Window
+[2024.09.29-15.07.49:754][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow.BP_200_GroundWindow
+[2024.09.29-15.07.51:677][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow.BP_200_LittleWindow
+[2024.09.29-15.07.52:217][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall.BP_200_LowWall
+[2024.09.29-15.07.52:799][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.BP_200_Wall
+[2024.09.29-15.07.53:318][582]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window.BP_200_Window
+[2024.09.29-15.07.53:857][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony.BP_SquareWindowBalcony
+[2024.09.29-15.07.54:402][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs.BP_Stairs
+[2024.09.29-15.07.54:929][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony.BP_TriangleWindowBalcony
+[2024.09.29-15.08.30:245][752]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.08.30:254][752]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.29-15.08.30:263][752]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.29-15.08.30:276][753]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.29-15.08.37:746][428]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GroundDoor
+[2024.09.29-15.08.37:751][428]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.29-15.08.41:029][610]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.08.41:036][610]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.29-15.08.41:044][610]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.29-15.08.41:058][611]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.29-15.08.44:367][885]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2024.09.29-15.08.44:372][885]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.29-15.08.51:599][485]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor'
+[2024.09.29-15.08.53:205][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door.BP_Door
+[2024.09.29-15.08.53:771][654]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor.BP_GroundDoor
+[2024.09.29-15.09.28:326][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.09.29-15.09.36:674][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.09.36:693][176]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door] ([2] browsable assets)...
+[2024.09.29-15.09.36:704][176]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door.BP_Door]
+[2024.09.29-15.09.36:704][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door]
+[2024.09.29-15.09.36:707][176]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door
+[2024.09.29-15.09.36:707][176]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_DoorA2151A2141BCBA66B2EAEA9E74F7BD6A.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_Door.uasset'
+[2024.09.29-15.09.36:716][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.918 ms (total: 3.08 sec)
+[2024.09.29-15.09.36:742][176]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.09.36:742][176]LogContentValidation: Enabled validators:
+[2024.09.29-15.09.36:742][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.09.36:742][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.09.36:742][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.09.36:742][176]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door.BP_Door
+[2024.09.29-15.09.36:742][176]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Door Validating asset
+[2024.09.29-15.09.38:992][360]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.09.38:992][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.09.39:019][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.09.41:136][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.DESTROYED_BP_GroundDoor_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.09.29-15.09.56:600][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.09.56:603][883]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.DESTROYED_BP_GroundDoor_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.09.29-15.09.56:605][883]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.DESTROYED_BP_GroundDoor_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.09.29-15.09.57:559][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.09.57:589][959]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.09.57:600][959]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor.BP_GroundDoor]
+[2024.09.29-15.09.57:600][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor]
+[2024.09.29-15.09.57:602][959]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor
+[2024.09.29-15.09.57:602][959]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_GroundDoor5B718C96420003820F697AAB4A773944.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor.uasset'
+[2024.09.29-15.09.57:610][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.373 ms (total: 3.13 sec)
+[2024.09.29-15.09.57:639][959]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.09.57:639][959]LogContentValidation: Enabled validators:
+[2024.09.29-15.09.57:639][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.09.57:639][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.09.57:639][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.09.57:639][959]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor.BP_GroundDoor
+[2024.09.29-15.09.57:639][959]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_GroundDoor Validating asset
+[2024.09.29-15.10.28:845][670]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.10.28:845][670]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.10.28:845][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.10.28:873][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.10.29:623][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.29-15.10.29:624][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularEnvironment/ModularEnviroMap' took 0.013
+[2024.09.29-15.10.29:625][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.10.29:625][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor]
+[2024.09.29-15.10.29:627][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor_Auto7
+[2024.09.29-15.10.29:627][726]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_GroundDoor_Auto741ADBAF7464678E3CA6E02B466E37113.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/Autosaves/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor_Auto7.uasset'
+[2024.09.29-15.10.29:627][726]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.09.29-15.10.38:393][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.10.39:493][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.10.39:520][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor] ([2] browsable assets)...
+[2024.09.29-15.10.39:531][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor.BP_120_BalconyDoor]
+[2024.09.29-15.10.39:531][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor]
+[2024.09.29-15.10.39:533][519]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor
+[2024.09.29-15.10.39:533][519]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_BalconyDoor54DEB434429EC432D82F31B67823124E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor.uasset'
+[2024.09.29-15.10.39:540][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.906 ms (total: 3.18 sec)
+[2024.09.29-15.10.39:569][519]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.10.39:569][519]LogContentValidation: Enabled validators:
+[2024.09.29-15.10.39:569][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.10.39:569][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.10.39:569][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.10.39:569][519]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor.BP_120_BalconyDoor
+[2024.09.29-15.10.39:569][519]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyDoor Validating asset
+[2024.09.29-15.10.41:975][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.10.41:975][724]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.10.41:975][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.10.42:009][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.29-15.10.46:135][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.10.47:253][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.10.47:275][142]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow] ([2] browsable assets)...
+[2024.09.29-15.10.47:286][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow.BP_120_BalconyWindow]
+[2024.09.29-15.10.47:287][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow]
+[2024.09.29-15.10.47:289][142]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow
+[2024.09.29-15.10.47:289][142]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_BalconyWindow9D5B151548DEA4C94E2BCF9F0C814EE0.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow.uasset'
+[2024.09.29-15.10.47:295][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.700 ms (total: 3.22 sec)
+[2024.09.29-15.10.47:324][142]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.10.47:324][142]LogContentValidation: Enabled validators:
+[2024.09.29-15.10.47:324][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.10.47:324][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.10.47:324][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.10.47:324][142]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow.BP_120_BalconyWindow
+[2024.09.29-15.10.47:324][142]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_BalconyWindow Validating asset
+[2024.09.29-15.10.49:385][314]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.10.49:385][314]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.10.49:385][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.10.49:421][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.29-15.10.58:532][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.10.59:422][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.10.59:450][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door] ([2] browsable assets)...
+[2024.09.29-15.10.59:461][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.BP_120_Door]
+[2024.09.29-15.10.59:461][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door]
+[2024.09.29-15.10.59:463][144]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door
+[2024.09.29-15.10.59:464][144]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_Door734A1EA44D01D5152E59DEA015E0A9F9.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.uasset'
+[2024.09.29-15.10.59:470][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.830 ms (total: 3.27 sec)
+[2024.09.29-15.10.59:498][144]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.10.59:498][144]LogContentValidation: Enabled validators:
+[2024.09.29-15.10.59:498][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.10.59:498][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.10.59:498][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.10.59:498][144]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.BP_120_Door
+[2024.09.29-15.10.59:498][144]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door Validating asset
+[2024.09.29-15.11.20:747][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.11.21:293][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.11.21:325][827]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony] ([2] browsable assets)...
+[2024.09.29-15.11.21:337][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony.BP_120_GroundBalcony]
+[2024.09.29-15.11.21:337][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony]
+[2024.09.29-15.11.21:339][827]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony
+[2024.09.29-15.11.21:339][827]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_GroundBalcony0A6A0CC24E38920587B9C9B43CE8D0DB.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony.uasset'
+[2024.09.29-15.11.21:345][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.358 ms (total: 3.32 sec)
+[2024.09.29-15.11.21:374][827]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.11.21:374][827]LogContentValidation: Enabled validators:
+[2024.09.29-15.11.21:374][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.11.21:374][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.11.21:374][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.11.21:374][827]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony.BP_120_GroundBalcony
+[2024.09.29-15.11.21:374][827]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundBalcony Validating asset
+[2024.09.29-15.11.51:336][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.11.51:336][366]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.11.51:336][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.11.51:368][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.11.52:177][431]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor'
+[2024.09.29-15.11.52:177][431]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor'
+[2024.09.29-15.12.04:523][377]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor'
+[2024.09.29-15.12.08:680][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.12.08:754][724]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor'
+[2024.09.29-15.12.16:200][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.29-15.12.16:938][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.12.16:972][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow] ([2] browsable assets)...
+[2024.09.29-15.12.16:984][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow.BP_120_LittleWindow]
+[2024.09.29-15.12.16:984][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow]
+[2024.09.29-15.12.16:987][367]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow
+[2024.09.29-15.12.16:987][367]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_LittleWindow7401FE1544E6CBE880ACE8B2F2AE7DB9.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow.uasset'
+[2024.09.29-15.12.16:993][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.617 ms (total: 3.38 sec)
+[2024.09.29-15.12.17:019][367]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.12.17:019][367]LogContentValidation: Enabled validators:
+[2024.09.29-15.12.17:019][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.12.17:019][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.12.17:019][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.12.17:019][367]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow.BP_120_LittleWindow
+[2024.09.29-15.12.17:019][367]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_LittleWindow Validating asset
+[2024.09.29-15.12.18:181][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.12.18:181][457]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.12.18:181][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.12.18:212][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.29-15.12.28:047][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.09.29-15.12.28:662][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.12.28:694][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.12.28:694][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor]
+[2024.09.29-15.12.28:696][304]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor
+[2024.09.29-15.12.28:696][304]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_GroundDoorB605C39944675FB61A835390671A9B8E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.uasset'
+[2024.09.29-15.12.28:703][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.511 ms (total: 3.42 sec)
+[2024.09.29-15.12.28:726][304]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.12.28:726][304]LogContentValidation: Enabled validators:
+[2024.09.29-15.12.28:726][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.12.28:726][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.12.28:726][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.12.28:726][304]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor
+[2024.09.29-15.12.28:726][304]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor Validating asset
+[2024.09.29-15.12.32:251][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.12.32:862][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.12.32:887][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door] ([2] browsable assets)...
+[2024.09.29-15.12.32:887][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door]
+[2024.09.29-15.12.32:888][657]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door
+[2024.09.29-15.12.32:889][657]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_DoorDCF092F9493E31FD99956A986E3D59D9.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.uasset'
+[2024.09.29-15.12.32:894][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.849 ms (total: 3.45 sec)
+[2024.09.29-15.12.32:914][657]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.12.32:914][657]LogContentValidation: Enabled validators:
+[2024.09.29-15.12.32:914][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.12.32:914][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.12.32:914][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.12.32:914][657]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.BP_120_Door
+[2024.09.29-15.12.32:914][657]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door Validating asset
+[2024.09.29-15.12.36:382][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.12.37:169][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.12.37:198][ 13]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall] ([2] browsable assets)...
+[2024.09.29-15.12.37:211][ 13]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall.BP_120_Wall]
+[2024.09.29-15.12.37:211][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall]
+[2024.09.29-15.12.37:213][ 13]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall
+[2024.09.29-15.12.37:213][ 13]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_WallE0D5A511448D18AE639613A26561C3A8.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall.uasset'
+[2024.09.29-15.12.37:220][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.115 ms (total: 3.50 sec)
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: Enabled validators:
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.12.37:249][ 13]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall.BP_120_Wall
+[2024.09.29-15.12.37:249][ 13]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Wall Validating asset
+[2024.09.29-15.12.38:229][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.12.38:229][ 96]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.12.38:229][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.12.38:260][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.29-15.12.45:146][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.12.46:063][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.12.46:080][703]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window] ([2] browsable assets)...
+[2024.09.29-15.12.46:094][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window.BP_120_Window]
+[2024.09.29-15.12.46:094][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window]
+[2024.09.29-15.12.46:096][703]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window
+[2024.09.29-15.12.46:096][703]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_WindowF06F40D4486BF867CD58B7A1BC262CD1.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window.uasset'
+[2024.09.29-15.12.46:103][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.485 ms (total: 3.54 sec)
+[2024.09.29-15.12.46:132][703]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.12.46:132][703]LogContentValidation: Enabled validators:
+[2024.09.29-15.12.46:132][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.12.46:132][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.12.46:132][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.12.46:132][703]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window.BP_120_Window
+[2024.09.29-15.12.46:132][703]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Window Validating asset
+[2024.09.29-15.12.49:385][977]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.12.49:385][977]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.12.49:385][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.12.49:415][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.29-15.13.03:013][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.13.03:716][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.13.03:741][218]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow] ([2] browsable assets)...
+[2024.09.29-15.13.03:753][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow.BP_200_GroundWindow]
+[2024.09.29-15.13.03:753][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow]
+[2024.09.29-15.13.03:756][218]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow
+[2024.09.29-15.13.03:756][218]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_GroundWindow3765AA544B290E93BA2D8CA1A72125EF.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow.uasset'
+[2024.09.29-15.13.03:763][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.545 ms (total: 3.59 sec)
+[2024.09.29-15.13.03:788][218]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.13.03:788][218]LogContentValidation: Enabled validators:
+[2024.09.29-15.13.03:788][218]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.13.03:788][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.13.03:788][218]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.13.03:788][218]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow.BP_200_GroundWindow
+[2024.09.29-15.13.03:788][218]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundWindow Validating asset
+[2024.09.29-15.13.05:905][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.13.05:905][389]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.13.05:905][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.13.05:936][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.29-15.13.10:078][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.13.10:667][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.13.10:692][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow] ([2] browsable assets)...
+[2024.09.29-15.13.10:703][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow.BP_200_LittleWindow]
+[2024.09.29-15.13.10:703][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow]
+[2024.09.29-15.13.10:706][765]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow
+[2024.09.29-15.13.10:706][765]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_LittleWindow68414B7C45076A6568B6A58BDDAB1C1F.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow.uasset'
+[2024.09.29-15.13.10:713][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.514 ms (total: 3.63 sec)
+[2024.09.29-15.13.10:734][765]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.13.10:734][765]LogContentValidation: Enabled validators:
+[2024.09.29-15.13.10:734][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.13.10:734][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.13.10:734][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.13.10:734][765]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow.BP_200_LittleWindow
+[2024.09.29-15.13.10:734][765]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LittleWindow Validating asset
+[2024.09.29-15.13.11:576][830]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.13.11:576][830]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.13.11:576][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.13.11:606][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.29-15.13.19:336][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.29-15.13.20:394][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.13.20:422][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall] ([2] browsable assets)...
+[2024.09.29-15.13.20:436][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall.BP_200_LowWall]
+[2024.09.29-15.13.20:436][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall]
+[2024.09.29-15.13.20:438][490]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall
+[2024.09.29-15.13.20:439][490]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_LowWall8F9A566A467E2088153EE2802C09C3CB.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall.uasset'
+[2024.09.29-15.13.20:445][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.228 ms (total: 3.68 sec)
+[2024.09.29-15.13.20:470][490]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.13.20:470][490]LogContentValidation: Enabled validators:
+[2024.09.29-15.13.20:470][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.13.20:470][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.13.20:470][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.13.20:470][490]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall.BP_200_LowWall
+[2024.09.29-15.13.20:470][490]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_LowWall Validating asset
+[2024.09.29-15.13.23:376][732]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.13.23:376][732]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.13.23:376][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.13.23:407][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.29-15.13.28:963][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.29-15.13.30:540][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.13.30:568][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall] ([2] browsable assets)...
+[2024.09.29-15.13.30:581][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.BP_200_Wall]
+[2024.09.29-15.13.30:581][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall]
+[2024.09.29-15.13.30:583][298]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall
+[2024.09.29-15.13.30:584][298]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_Wall81EEBA8041A7F8573541DE8550B4AE1E.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.uasset'
+[2024.09.29-15.13.30:590][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.453 ms (total: 3.73 sec)
+[2024.09.29-15.13.30:607][298]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.13.30:607][298]LogContentValidation: Enabled validators:
+[2024.09.29-15.13.30:607][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.13.30:607][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.13.30:607][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.13.30:607][298]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.BP_200_Wall
+[2024.09.29-15.13.30:607][298]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall Validating asset
+[2024.09.29-15.13.36:999][838]LogDerivedDataCache: C:/Users/Adelle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.09.29-15.13.37:587][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.13.38:224][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.13.38:254][930]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window] ([2] browsable assets)...
+[2024.09.29-15.13.38:266][930]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window.BP_200_Window]
+[2024.09.29-15.13.38:266][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window]
+[2024.09.29-15.13.38:268][930]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window
+[2024.09.29-15.13.38:268][930]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_Window6AB8C90A45FCDD93960853BC2C6B2A2B.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window.uasset'
+[2024.09.29-15.13.38:274][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.719 ms (total: 3.78 sec)
+[2024.09.29-15.13.38:296][930]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.13.38:296][930]LogContentValidation: Enabled validators:
+[2024.09.29-15.13.38:296][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.13.38:296][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.13.38:296][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.13.38:296][930]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window.BP_200_Window
+[2024.09.29-15.13.38:296][930]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Window Validating asset
+[2024.09.29-15.13.40:135][ 88]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.13.40:135][ 88]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.13.40:135][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.13.40:164][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.29-15.13.49:319][880]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.09.29-15.13.49:326][880]LogContentBrowser: Creating deferred item: NewWorld
+[2024.09.29-15.13.49:339][881]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.09.29-15.13.50:098][952]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.09.29-15.13.50:101][952]LogContentBrowser: End creating deferred item NewWorld
+[2024.09.29-15.13.51:074][ 42]LogObjectTools: Deleting 1 worlds: /Game/ModularEnvironment/BluePrint_ModularEnviro/NewWorld.NewWorld
+[2024.09.29-15.13.51:074][ 42]LogObjectTools: Currently 52 active worlds: /Game/ModularEnvironment/ModularEnviroMap.ModularEnviroMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_4, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38, /Engine/Transient.World_39, /Engine/Transient.World_40, /Engine/Transient.World_41, /Engine/Transient.World_42, /Engine/Transient.World_43, /Engine/Transient.World_44, /Engine/Transient.World_45, /Engine/Transient.World_46, /Engine/Transient.World_54, /Engine/Transient.World_55, /Engine/Transient.World_56, /Engine/Transient.World_57, /Engine/Transient.World_58, /Engine/Transient.World_59, /Engine/Transient.World_60, /Engine/Transient.World_63, /Engine/Transient.World_65, /Engine/Transient.World_72, /Engine/Transient.World_74, /Engine/Transient.World_75, /Engine/Transient.World_76, /Engine/Transient.World_79, /Engine/Transient.World_80, /Engine/Transient.World_81, /Engine/Transient.World_82, /Engine/Transient.World_83, /Engine/Transient.World_84, /Engine/Transient.World_85, /Engine/Transient.World_86, /Engine/Transient.World_87, /Engine/Transient.World_88, /Engine/Transient.World_89, /Engine/Transient.World_90, /Engine/Transient.World_91, /Engine/Transient.World_92
+[2024.09.29-15.13.51:087][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.09.29-15.13.52:086][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2024.09.29-15.13.52:094][ 42]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.13.52:094][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.13.52:108][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.29-15.13.52:119][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.09.29-15.13.52:129][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.09.29-15.13.54:626][150]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.13.54:639][150]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.29-15.13.54:647][150]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.29-15.13.54:659][151]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.29-15.14.02:982][941]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LowWall_Door
+[2024.09.29-15.14.02:986][941]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.29-15.14.20:329][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door.BP_LowWall_Door
+[2024.09.29-15.14.25:605][714]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.14.50:163][502]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.14.50:179][502]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.29-15.14.50:186][502]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.29-15.14.50:201][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.29-15.15.00:471][419]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_200_GroundDoor
+[2024.09.29-15.15.00:475][419]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.29-15.15.04:072][631]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.29-15.15.04:079][631]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.29-15.15.04:086][631]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.29-15.15.04:099][632]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.29-15.15.12:153][210]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_200_Door
+[2024.09.29-15.15.12:157][210]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.29-15.15.13:609][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.BP_200_Door
+[2024.09.29-15.15.14:840][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.BP_200_GroundDoor
+[2024.09.29-15.15.34:433][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.29-15.15.35:333][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.15.35:364][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door] ([2] browsable assets)...
+[2024.09.29-15.15.35:364][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door]
+[2024.09.29-15.15.35:367][155]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door
+[2024.09.29-15.15.35:367][155]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_DoorC781EF2743BE17115A637AAA6AABC643.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.uasset'
+[2024.09.29-15.15.35:374][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.724 ms (total: 3.82 sec)
+[2024.09.29-15.15.35:398][155]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.15.35:399][155]LogContentValidation: Enabled validators:
+[2024.09.29-15.15.35:399][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.15.35:399][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.15.35:399][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.15.35:399][155]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door.BP_120_Door
+[2024.09.29-15.15.35:399][155]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_Door Validating asset
+[2024.09.29-15.15.36:365][238]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.15.36:365][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.15.36:401][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.15.40:368][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.15.41:223][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.15.41:254][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.15.41:255][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor]
+[2024.09.29-15.15.41:256][654]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor
+[2024.09.29-15.15.41:257][654]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_120_GroundDoor0B8DC2114032180D234FC28639344EE7.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.uasset'
+[2024.09.29-15.15.41:263][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.871 ms (total: 3.86 sec)
+[2024.09.29-15.15.41:288][654]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.15.41:288][654]LogContentValidation: Enabled validators:
+[2024.09.29-15.15.41:288][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.15.41:288][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.15.41:288][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.15.41:288][654]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor.BP_120_GroundDoor
+[2024.09.29-15.15.41:288][654]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_120_GroundDoor Validating asset
+[2024.09.29-15.15.45:325][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.15.45:325][ 15]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.15.45:325][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.15.45:363][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.15.48:538][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.15.48:559][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall] ([2] browsable assets)...
+[2024.09.29-15.15.48:559][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall]
+[2024.09.29-15.15.48:562][276]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall
+[2024.09.29-15.15.48:562][276]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_WallAD4E01E246C6108F2364159A5BA8DB87.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.uasset'
+[2024.09.29-15.15.48:569][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.802 ms (total: 3.89 sec)
+[2024.09.29-15.15.48:594][276]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.15.48:594][276]LogContentValidation: Enabled validators:
+[2024.09.29-15.15.48:594][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.15.48:594][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.15.48:594][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.15.48:594][276]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall.BP_200_Wall
+[2024.09.29-15.15.48:594][276]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Wall Validating asset
+[2024.09.29-15.15.49:396][339]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.15.49:396][339]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.15.49:396][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.15.49:429][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.29-15.16.10:413][ 38]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.BP_200_Door'
+[2024.09.29-15.16.16:110][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.16.17:598][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.16.17:629][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door] ([2] browsable assets)...
+[2024.09.29-15.16.17:629][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door]
+[2024.09.29-15.16.17:631][608]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door
+[2024.09.29-15.16.17:631][608]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_Door2867C881488EF9F7288463898EFD8322.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.uasset'
+[2024.09.29-15.16.17:639][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.099 ms (total: 3.94 sec)
+[2024.09.29-15.16.17:662][608]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.16.17:663][608]LogContentValidation: Enabled validators:
+[2024.09.29-15.16.17:663][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.16.17:663][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.16.17:663][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.16.17:663][608]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.BP_200_Door
+[2024.09.29-15.16.17:663][608]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door Validating asset
+[2024.09.29-15.16.27:817][382]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.BP_200_GroundDoor'
+[2024.09.29-15.16.31:268][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.29-15.16.31:726][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.16.31:754][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.16.31:754][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor]
+[2024.09.29-15.16.31:756][691]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor
+[2024.09.29-15.16.31:756][691]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_GroundDoor0C42B64F4262858EF6DB5DAD2D870FAC.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.uasset'
+[2024.09.29-15.16.31:764][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.485 ms (total: 3.97 sec)
+[2024.09.29-15.16.31:781][691]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.16.31:781][691]LogContentValidation: Enabled validators:
+[2024.09.29-15.16.31:781][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.16.31:781][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.16.31:781][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.16.31:781][691]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.BP_200_GroundDoor
+[2024.09.29-15.16.31:781][691]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor Validating asset
+[2024.09.29-15.16.47:225][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.29-15.16.56:447][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.29-15.16.56:936][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.16.56:961][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony] ([2] browsable assets)...
+[2024.09.29-15.16.56:971][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony.BP_SquareWindowBalcony]
+[2024.09.29-15.16.56:972][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony]
+[2024.09.29-15.16.56:974][713]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony
+[2024.09.29-15.16.56:974][713]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_SquareWindowBalcony7F764A514A04AA9BBA5CA384BB957DB4.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony.uasset'
+[2024.09.29-15.16.56:981][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.084 ms (total: 4.02 sec)
+[2024.09.29-15.16.57:008][713]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.16.57:008][713]LogContentValidation: Enabled validators:
+[2024.09.29-15.16.57:008][713]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.16.57:008][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.16.57:008][713]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.16.57:008][713]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony.BP_SquareWindowBalcony
+[2024.09.29-15.16.57:008][713]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_SquareWindowBalcony Validating asset
+[2024.09.29-15.17.01:428][ 67]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.17.01:428][ 67]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.17.01:428][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.17.01:459][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.17.14:004][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.29-15.17.14:628][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.17.14:648][151]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs] ([2] browsable assets)...
+[2024.09.29-15.17.14:659][151]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs.BP_Stairs]
+[2024.09.29-15.17.14:659][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs]
+[2024.09.29-15.17.14:662][151]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs
+[2024.09.29-15.17.14:662][151]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_StairsFDDA4ED943BF83972E3CC28F96A593C9.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs.uasset'
+[2024.09.29-15.17.14:668][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.863 ms (total: 4.06 sec)
+[2024.09.29-15.17.14:696][151]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.17.14:696][151]LogContentValidation: Enabled validators:
+[2024.09.29-15.17.14:696][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.17.14:696][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.17.14:696][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.17.14:696][151]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs.BP_Stairs
+[2024.09.29-15.17.14:696][151]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_Stairs Validating asset
+[2024.09.29-15.17.15:646][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.17.15:646][224]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.17.15:646][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.17.15:676][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.09.29-15.17.19:675][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.17.20:290][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.17.20:321][585]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony] ([2] browsable assets)...
+[2024.09.29-15.17.20:337][585]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony.BP_TriangleWindowBalcony]
+[2024.09.29-15.17.20:337][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony]
+[2024.09.29-15.17.20:339][585]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony
+[2024.09.29-15.17.20:340][585]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_TriangleWindowBalcony11EE9A574AE0554B52CD8A9AE93498A5.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony.uasset'
+[2024.09.29-15.17.20:346][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.555 ms (total: 4.11 sec)
+[2024.09.29-15.17.20:364][585]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.17.20:364][585]LogContentValidation: Enabled validators:
+[2024.09.29-15.17.20:364][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.17.20:364][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.17.20:364][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.17.20:364][585]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony.BP_TriangleWindowBalcony
+[2024.09.29-15.17.20:364][585]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_TriangleWindowBalcony Validating asset
+[2024.09.29-15.17.21:747][702]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.17.21:748][702]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.17.21:748][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.17.21:774][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.29-15.17.28:007][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.29-15.17.29:055][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.17.29:086][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door] ([2] browsable assets)...
+[2024.09.29-15.17.29:099][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door.BP_LowWall_Door]
+[2024.09.29-15.17.29:099][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door]
+[2024.09.29-15.17.29:101][249]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door
+[2024.09.29-15.17.29:101][249]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_LowWall_Door0905A94543AD7FECBFF430AACA753D8F.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door.uasset'
+[2024.09.29-15.17.29:109][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.376 ms (total: 4.17 sec)
+[2024.09.29-15.17.29:133][249]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.17.29:133][249]LogContentValidation: Enabled validators:
+[2024.09.29-15.17.29:133][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.17.29:133][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.17.29:133][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.17.29:133][249]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door.BP_LowWall_Door
+[2024.09.29-15.17.29:133][249]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_LowWall_Door Validating asset
+[2024.09.29-15.17.34:575][706]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.17.34:575][706]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.17.34:575][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.17.34:604][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.09.29-15.17.58:780][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.09.29-15.17.59:526][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.17.59:551][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door] ([2] browsable assets)...
+[2024.09.29-15.17.59:551][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door]
+[2024.09.29-15.17.59:553][790]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door
+[2024.09.29-15.17.59:554][790]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_Door16A7E95D4A7DA735235E54974027A60B.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.uasset'
+[2024.09.29-15.17.59:560][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.425 ms (total: 4.20 sec)
+[2024.09.29-15.17.59:578][790]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.17.59:578][790]LogContentValidation: Enabled validators:
+[2024.09.29-15.17.59:578][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.17.59:578][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.17.59:578][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.17.59:578][790]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door.BP_200_Door
+[2024.09.29-15.17.59:578][790]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_Door Validating asset
+[2024.09.29-15.18.10:237][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.29-15.18.10:931][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.29-15.18.10:961][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor] ([2] browsable assets)...
+[2024.09.29-15.18.10:961][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor]
+[2024.09.29-15.18.10:963][742]LogSavePackage: Moving output files for package: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor
+[2024.09.29-15.18.10:963][742]LogSavePackage: Moving '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Saved/BP_200_GroundDoorE44EBB7847F01DD9A78F37A083427134.tmp' to '../../../../../../Users/Adelle/ModularStreet/ModularStreet/Content/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.uasset'
+[2024.09.29-15.18.10:969][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.431 ms (total: 4.24 sec)
+[2024.09.29-15.18.10:994][742]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.29-15.18.10:994][742]LogContentValidation: Enabled validators:
+[2024.09.29-15.18.10:994][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.29-15.18.10:994][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.29-15.18.10:994][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.29-15.18.10:994][742]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor.BP_200_GroundDoor
+[2024.09.29-15.18.10:994][742]AssetCheck: /Game/ModularEnvironment/BluePrint_ModularEnviro/BP_200_GroundDoor Validating asset
+[2024.09.29-15.18.12:897][898]LogSlate: Window 'BP_200_GroundDoor' being destroyed
+[2024.09.29-15.18.12:903][898]LogSlate: Window 'BP_200_GroundDoor' being destroyed
+[2024.09.29-15.18.12:905][898]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.18.12:905][898]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.18.12:905][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.18.12:922][898]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.09.29-15.18.12:922][898]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.09.29-15.18.12:922][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.29-15.18.12:949][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
