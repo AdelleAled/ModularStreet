@@ -21768,3 +21768,410 @@ Script Stack (0 frames) :
 [2025.01.14-16.50.08:846][596]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2
 [2025.01.14-16.50.08:852][596]AssetCheck: /Game/ModularEnvironment/ModularEnviroMap2 Validating asset
 [2025.01.14-16.50.09:887][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.01.14-16.53.46:135][300]Cmd: DELETE
+[2025.01.14-16.53.46:135][300]Cmd: ACTOR DELETE
+[2025.01.14-16.53.46:888][323]Cmd: DELETE
+[2025.01.14-16.53.46:888][323]Cmd: ACTOR DELETE
+[2025.01.14-16.53.47:470][340]Cmd: DELETE
+[2025.01.14-16.53.47:470][340]Cmd: ACTOR DELETE
+[2025.01.14-16.53.47:999][356]Cmd: DELETE
+[2025.01.14-16.53.47:999][356]Cmd: ACTOR DELETE
+[2025.01.14-16.53.49:488][405]Cmd: DELETE
+[2025.01.14-16.53.49:488][405]Cmd: ACTOR DELETE
+[2025.01.14-16.53.50:770][448]Cmd: DELETE
+[2025.01.14-16.53.50:770][448]Cmd: ACTOR DELETE
+[2025.01.14-16.53.55:050][623]Cmd: DELETE
+[2025.01.14-16.53.55:050][623]Cmd: ACTOR DELETE
+[2025.01.14-16.53.55:100][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.14-16.53.55:195][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.01.14-16.53.55:204][623]LogEditorActor: Deleted 1 Actors (0.154 secs)
+[2025.01.14-16.54.03:520][965]Cmd: DELETE
+[2025.01.14-16.54.03:520][965]Cmd: ACTOR DELETE
+[2025.01.14-16.54.03:564][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.14-16.54.03:647][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.14-16.54.03:651][965]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2025.01.14-16.55.15:297][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.01.14-16.55.15:297][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.01.14-16.55.15:300][318]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_0
+[2025.01.14-16.55.15:303][318]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_0
+[2025.01.14-16.55.17:264][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.14-16.55.17:273][405]LogEditorActor: Deleted 0 Actors (0.094 secs)
+[2025.01.14-16.55.17:283][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.01.14-16.55.17:283][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.01.14-16.55.17:293][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_UAID_C8D9D21FF011964202_1099537719
+[2025.01.14-16.55.17:296][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_UAID_C8D9D21FF011964202_1099537719
+[2025.01.14-16.56.44:439][719]Cmd: DUPLICATE
+[2025.01.14-16.56.44:439][719]Cmd: ACTOR DUPLICATE
+[2025.01.14-16.56.48:880][934]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.14-16.56.54:553][245]Cmd: TRANSACTION UNDO
+[2025.01.14-16.56.54:553][245]LogEditorTransaction: Undo Move Elements
+[2025.01.14-16.57.45:066][968]Cmd: DUPLICATE
+[2025.01.14-16.57.45:066][968]Cmd: ACTOR DUPLICATE
+[2025.01.14-16.57.48:550][138]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.14-16.58.49:678][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.14-16.58.49:787][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_120_Wall_C_UAID_C8D9D21FF011944202_1264562914 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/9R/ZKOE5WAYJPDG6XVRBWORNI.PackageMetaData in its package
+[2025.01.14-16.58.49:787][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_120_Window_C_UAID_C8D9D21FF011944202_1264549913 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/1G/6RYLX5AHWN0Y3QCTY53N5Y.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826234743 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/58/KROD3DILHG7N3X7PPZON2M.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826238744 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/ZQ/45Y2VIDEWJ2MRZUOSLJ3MW.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826208736 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/7Z/S8L85YSSALQDEU0T3SL79F.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1845832756 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/BV/JSN3JH2T4HQRGLB3P57MM6.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826225740 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/1A/QGMO0VNALMRCHCIWP34OXN.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826222739 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/UU/MDZF4W5ZVEREDJTF7KWBXH.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_WallVentilation_C_UAID_C8D9D21FF011904202_1227795463 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/M7/H5IDTJXN6IGTVFTYH9HU57.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_UAID_C8D9D21FF011474202_1490191076 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/7P/4IA34UFA2DGF107R9RBQCI.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1826216737 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/BJ/3HYDEL78AGO65NVK39B81K.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_200_Window_C_UAID_C8D9D21FF011954202_1699993525 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/G5/0DYEZQONVMXMXNO5W1UJ5X.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_200_Window_C_UAID_C8D9D21FF011954202_1699974518 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/1M/L7GVWMAJ1RUY91TK9EJ9TD.PackageMetaData in its package
+[2025.01.14-16.58.49:788][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_200_Wall_C_UAID_C8D9D21FF011954202_1699962514 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/8Z/60KQJYCKF567JETIHC5RUB.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_Neon_DINER_C_UAID_C8D9D21FF011924202_1286600586 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/2Z/VYFXBM99N7933DCP3OGGVI.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_200_Wall_C_UAID_C8D9D21FF011954202_1672290512 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/VQ/T2LG25PCOA0ZP9KG29S2UE.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1845798748 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/Z6/XST1Z9GUHNKQQ4U2IRYWHG.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_FloorElevation_C_UAID_C8D9D21FF011924202_1551022001 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/R9/8WGDMOJKSCIJNK9BVRVN2Z.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_FloorElevation_C_UAID_C8D9D21FF011934202_1897171665 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/4C/AVHS7VK3WS1EMF8I02P0VI.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.StaticMeshActor_UAID_C8D9D21FF011474202_1521852077 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/NR/O012MG38PZE228XDTLAJW8.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_CylinderNeon1_C_UAID_C8D9D21FF011944202_2017859817 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/61/4B4Z7YDJZPF1S59BHZE3PR.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.PointLight_UAID_C8D9D21FF011944202_2017849816 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/P0/JXXPF2ATJKYYIEYXL659WF.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_240_Ground_C_UAID_C8D9D21FF011924202_1867906765 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/5S/UIRG1KMM3F8TK7CRGESL1P.PackageMetaData in its package
+[2025.01.14-16.58.49:789][318]LogWorldPartition: Actor /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2:PersistentLevel.BP_Roof_C_UAID_C8D9D21FF011954202_1519333474 is unreachable without properly detaching object /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/0L/G475R1ZMS8CRBMVIIXTV68.PackageMetaData in its package
+[2025.01.14-16.58.49:796][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.14-16.58.49:834][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.14-16.58.49:864][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.14-16.58.49:885][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/LR/EZ1XOGXK0RXJM2CP93L9HS
+[2025.01.14-16.58.49:887][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/EZ1XOGXK0RXJM2CP93L9HS60BC49664FB960CE57AB0291B042CFE8.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/LR/EZ1XOGXK0RXJM2CP93L9HS.uasset'
+[2025.01.14-16.58.49:894][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/MV/6WQVF29U3LOCEOLB4WWFDZ
+[2025.01.14-16.58.49:896][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/6WQVF29U3LOCEOLB4WWFDZD705CF0240B22B17440072995381091C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/MV/6WQVF29U3LOCEOLB4WWFDZ.uasset'
+[2025.01.14-16.58.49:902][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/MW/CY14I58Q9HXDEJSCKJM90A
+[2025.01.14-16.58.49:904][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/CY14I58Q9HXDEJSCKJM90A03761AA74944E829CD90349C0E48FF4D.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/MW/CY14I58Q9HXDEJSCKJM90A.uasset'
+[2025.01.14-16.58.49:911][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/ZO/LU2V0HN4QCQXKS5WXO0NQJ
+[2025.01.14-16.58.49:912][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/LU2V0HN4QCQXKS5WXO0NQJ2DF76FF6493709F7784B5F8B5DC05929.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/0/ZO/LU2V0HN4QCQXKS5WXO0NQJ.uasset'
+[2025.01.14-16.58.49:919][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/IP/9KMEJJAJ6KP0A3VPQNML4F
+[2025.01.14-16.58.49:920][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/9KMEJJAJ6KP0A3VPQNML4FF4F1D2EC4B71E40D1C9266BD9F16D870.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/IP/9KMEJJAJ6KP0A3VPQNML4F.uasset'
+[2025.01.14-16.58.49:990][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/LH/TB7266L7HR43B74YFK2SZT
+[2025.01.14-16.58.49:992][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/TB7266L7HR43B74YFK2SZTA63F9CC34EF4864AE10E5F8598E2519D.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/LH/TB7266L7HR43B74YFK2SZT.uasset'
+[2025.01.14-16.58.49:999][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/66/3L9YVX1UU01LTZW6K4R849
+[2025.01.14-16.58.50:001][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/3L9YVX1UU01LTZW6K4R849E89454A84289BF2CEC05339E19110ADB.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/66/3L9YVX1UU01LTZW6K4R849.uasset'
+[2025.01.14-16.58.50:008][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/QC/ITKVYIK257POT48KP4UA1L
+[2025.01.14-16.58.50:009][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/ITKVYIK257POT48KP4UA1LA49A320D45D9E30A9086B9BBF451C4F9.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/QC/ITKVYIK257POT48KP4UA1L.uasset'
+[2025.01.14-16.58.50:016][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/SH/ZMXN4RDFEIPVBULDASLPJ3
+[2025.01.14-16.58.50:018][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/ZMXN4RDFEIPVBULDASLPJ38A579A55476F31668B1357836EF66298.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/SH/ZMXN4RDFEIPVBULDASLPJ3.uasset'
+[2025.01.14-16.58.50:025][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/73/ZZEY06JNAA6E3346S8K7BS
+[2025.01.14-16.58.50:026][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/ZZEY06JNAA6E3346S8K7BS4500084048F01EE1CA9A82892C677D72.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/73/ZZEY06JNAA6E3346S8K7BS.uasset'
+[2025.01.14-16.58.50:033][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/AP/2QHK388IT31K4043YS3EHH
+[2025.01.14-16.58.50:034][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/2QHK388IT31K4043YS3EHHCE8C5E6341EB1475EBF5B3B16BEA01E3.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/AP/2QHK388IT31K4043YS3EHH.uasset'
+[2025.01.14-16.58.50:042][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/F3/7MFNRI1BGYU32HDCGBLTWD
+[2025.01.14-16.58.50:043][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/7MFNRI1BGYU32HDCGBLTWDC1F1D33C4E6F68476D2F4E9D513FF80B.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/F3/7MFNRI1BGYU32HDCGBLTWD.uasset'
+[2025.01.14-16.58.50:050][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/30/09V9IRK3773B7WGP9DITZM
+[2025.01.14-16.58.50:051][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/09V9IRK3773B7WGP9DITZM6DC444644AF6E8E26E9084A500F8B61C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/30/09V9IRK3773B7WGP9DITZM.uasset'
+[2025.01.14-16.58.50:059][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/3V/RH4IQEHO4DNKZ44HMU4GQ3
+[2025.01.14-16.58.50:060][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/RH4IQEHO4DNKZ44HMU4GQ369C0607440469832765D57BB62D4C26C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/3V/RH4IQEHO4DNKZ44HMU4GQ3.uasset'
+[2025.01.14-16.58.50:067][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/A1/D3CMVKIGAGPHRU9KCXDGOC
+[2025.01.14-16.58.50:069][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/D3CMVKIGAGPHRU9KCXDGOC0BB3775441E19222A23ABA96140D369F.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/A1/D3CMVKIGAGPHRU9KCXDGOC.uasset'
+[2025.01.14-16.58.50:075][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/HN/JC7LLVQTJOABPULIP4V6LL
+[2025.01.14-16.58.50:077][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/JC7LLVQTJOABPULIP4V6LLCBECAA2E498430EEA5E1B6892809536D.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/HN/JC7LLVQTJOABPULIP4V6LL.uasset'
+[2025.01.14-16.58.50:084][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/HX/5FYQ27OYESP0EOOH43R3IS
+[2025.01.14-16.58.50:085][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/5FYQ27OYESP0EOOH43R3IS708FD8C74E5930990CDEED9D2DD06897.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/HX/5FYQ27OYESP0EOOH43R3IS.uasset'
+[2025.01.14-16.58.50:092][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/ZF/8FFHZXIRIVL1M4WDSZPLZT
+[2025.01.14-16.58.50:093][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/8FFHZXIRIVL1M4WDSZPLZTFECD40544F727C0B4CAE448FE1F45428.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/4/ZF/8FFHZXIRIVL1M4WDSZPLZT.uasset'
+[2025.01.14-16.58.50:100][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/2H/LO3GV4WGWKO5EO232C8PVQ
+[2025.01.14-16.58.50:101][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/LO3GV4WGWKO5EO232C8PVQ49F38ACF4039EBF849D887B1B95011FD.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/2H/LO3GV4WGWKO5EO232C8PVQ.uasset'
+[2025.01.14-16.58.50:109][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/SZ/SCA8AZLZEDTGESUPL9X5RR
+[2025.01.14-16.58.50:111][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/SCA8AZLZEDTGESUPL9X5RRA179F1224A4408FA14F2579DF23D9C82.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/SZ/SCA8AZLZEDTGESUPL9X5RR.uasset'
+[2025.01.14-16.58.50:117][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/WH/MD29LX7GRZSQI8C38UIW70
+[2025.01.14-16.58.50:118][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/MD29LX7GRZSQI8C38UIW70555AADAD420F64D89E73E68E4A1A2AD2.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/WH/MD29LX7GRZSQI8C38UIW70.uasset'
+[2025.01.14-16.58.50:126][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/0O/KMRXUAFUMWXFBN1M5NYWJF
+[2025.01.14-16.58.50:128][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/KMRXUAFUMWXFBN1M5NYWJF7ED6CC0949769122E825E3AC1AEF5B19.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/0O/KMRXUAFUMWXFBN1M5NYWJF.uasset'
+[2025.01.14-16.58.50:135][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/0T/EP1FFNVPBHIDKTXZX4BL1E
+[2025.01.14-16.58.50:136][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/EP1FFNVPBHIDKTXZX4BL1E944667F8447E1FC2BA2C909EDB58A98A.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/0T/EP1FFNVPBHIDKTXZX4BL1E.uasset'
+[2025.01.14-16.58.50:144][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/MG/IZLSBLO2HMNDAXAHX6Z9HD
+[2025.01.14-16.58.50:145][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/IZLSBLO2HMNDAXAHX6Z9HDEA73EE104CBC81B9E92DE3B687225C42.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/MG/IZLSBLO2HMNDAXAHX6Z9HD.uasset'
+[2025.01.14-16.58.50:153][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/9Q/B68PO3W9G7EIIPY2SCIEO6
+[2025.01.14-16.58.50:155][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/B68PO3W9G7EIIPY2SCIEO6B4175C9C4B04B2769F3EFB81AEE43EB2.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/9Q/B68PO3W9G7EIIPY2SCIEO6.uasset'
+[2025.01.14-16.58.50:162][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/ES/4N9L6R5CN7UYHP7F1FQT3Y
+[2025.01.14-16.58.50:163][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/4N9L6R5CN7UYHP7F1FQT3Y8DA35317497F0A807F7DE3BA24E4286A.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/ES/4N9L6R5CN7UYHP7F1FQT3Y.uasset'
+[2025.01.14-16.58.50:170][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/NG/X6Y3YRYGRN8HV7I0EH1HNM
+[2025.01.14-16.58.50:171][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/X6Y3YRYGRN8HV7I0EH1HNME93DC1134A024C37C71023BC5BDC08EE.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/NG/X6Y3YRYGRN8HV7I0EH1HNM.uasset'
+[2025.01.14-16.58.50:178][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/US/81UWPUAOQKW907VX02NB19
+[2025.01.14-16.58.50:179][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/81UWPUAOQKW907VX02NB197B831EAC4D5F95E5F6AD81BB96760CAF.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/US/81UWPUAOQKW907VX02NB19.uasset'
+[2025.01.14-16.58.50:186][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/1R/PQ9H807UMJU7WMQVTNL7GC
+[2025.01.14-16.58.50:188][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/PQ9H807UMJU7WMQVTNL7GC90C1EADF45C844E418B4FD985EE7524A.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/1R/PQ9H807UMJU7WMQVTNL7GC.uasset'
+[2025.01.14-16.58.50:195][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/QC/7AH4LFR7SWXGT79QE1JDHY
+[2025.01.14-16.58.50:196][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/7AH4LFR7SWXGT79QE1JDHYA335C9BB4A3D8D6429B227AEF07DB337.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/QC/7AH4LFR7SWXGT79QE1JDHY.uasset'
+[2025.01.14-16.58.50:203][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/YH/B8MPZSI36ZSLU6V8IJSQ4X
+[2025.01.14-16.58.50:204][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/B8MPZSI36ZSLU6V8IJSQ4X388A591C46CC42EA37630DBB47B5FC5F.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/8/YH/B8MPZSI36ZSLU6V8IJSQ4X.uasset'
+[2025.01.14-16.58.50:211][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/9A/M3CNUW9R9NMKV762V82BPP
+[2025.01.14-16.58.50:212][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/M3CNUW9R9NMKV762V82BPPD024F36D4E73AE75E8EE08A54E042319.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/9A/M3CNUW9R9NMKV762V82BPP.uasset'
+[2025.01.14-16.58.50:219][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/BS/3Z7WSJ7C07W2RK5UBU1IED
+[2025.01.14-16.58.50:220][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/3Z7WSJ7C07W2RK5UBU1IED167E49D64B6B00DFD1462ABEC8E4B3A3.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/BS/3Z7WSJ7C07W2RK5UBU1IED.uasset'
+[2025.01.14-16.58.50:227][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/PI/THDN30B2OVOCU6E3S6T82E
+[2025.01.14-16.58.50:228][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/THDN30B2OVOCU6E3S6T82EF2B6E804446D8291198D95871D6554B0.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/PI/THDN30B2OVOCU6E3S6T82E.uasset'
+[2025.01.14-16.58.50:235][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/5B/T1H7SCT810MI6DN1GM2BI8
+[2025.01.14-16.58.50:236][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/T1H7SCT810MI6DN1GM2BI87E05744B464AA32AEC28BE8E99BA9033.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/5B/T1H7SCT810MI6DN1GM2BI8.uasset'
+[2025.01.14-16.58.50:243][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/A2/JQM0BZ1I2XMKO6NZUF0WAZ
+[2025.01.14-16.58.50:244][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/JQM0BZ1I2XMKO6NZUF0WAZ98FA76F140CA6596DF5A76A3F6DB80BB.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/A2/JQM0BZ1I2XMKO6NZUF0WAZ.uasset'
+[2025.01.14-16.58.50:251][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/KD/26N3J8J7PZUZL33FSYHI7P
+[2025.01.14-16.58.50:252][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/26N3J8J7PZUZL33FSYHI7P4B264F46453EB766BEA7438FF63377B3.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/A/KD/26N3J8J7PZUZL33FSYHI7P.uasset'
+[2025.01.14-16.58.50:268][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/87/CWUPCY0JQRL3MZ8K5H4KEO
+[2025.01.14-16.58.50:270][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/CWUPCY0JQRL3MZ8K5H4KEO4B5EB1644764D2F937E96C8A31E26275.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/87/CWUPCY0JQRL3MZ8K5H4KEO.uasset'
+[2025.01.14-16.58.50:277][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/PX/CHLG9ZBJFOHBDSVMQ43TDN
+[2025.01.14-16.58.50:279][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/CHLG9ZBJFOHBDSVMQ43TDN03948BF14117A01B045FC9AD12F8DB02.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/PX/CHLG9ZBJFOHBDSVMQ43TDN.uasset'
+[2025.01.14-16.58.50:285][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/2A/B5ER3R07047RW9RCO0LDKB
+[2025.01.14-16.58.50:287][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/B5ER3R07047RW9RCO0LDKB489C67AB4C0CEA3FAC07F297051FF462.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/2A/B5ER3R07047RW9RCO0LDKB.uasset'
+[2025.01.14-16.58.50:294][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/70/GRD2HQ53AUCPAVQNIEXJOI
+[2025.01.14-16.58.50:295][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/GRD2HQ53AUCPAVQNIEXJOIF57DFCEF4D2A5C849A116DB2D774CFD5.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/70/GRD2HQ53AUCPAVQNIEXJOI.uasset'
+[2025.01.14-16.58.50:302][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/D7/VVHLB423L6M4D1VD055QTB
+[2025.01.14-16.58.50:304][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/VVHLB423L6M4D1VD055QTB4FF60AE4435EF17E59B16EBE269904AA.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/D7/VVHLB423L6M4D1VD055QTB.uasset'
+[2025.01.14-16.58.50:310][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/U0/35A7OQ1R913A3PZ0SLG79R
+[2025.01.14-16.58.50:312][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/35A7OQ1R913A3PZ0SLG79RF23FFC494D53C9EE0309F2B8748B986E.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/U0/35A7OQ1R913A3PZ0SLG79R.uasset'
+[2025.01.14-16.58.50:318][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/GB/L102WHC478QQX59ALODO7P
+[2025.01.14-16.58.50:319][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/L102WHC478QQX59ALODO7PF5DCB2974CBF83C301FB83A011DCCBDC.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/GB/L102WHC478QQX59ALODO7P.uasset'
+[2025.01.14-16.58.50:326][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/WP/IAM9FDYM2IV1JR2GFX2Q7H
+[2025.01.14-16.58.50:328][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/IAM9FDYM2IV1JR2GFX2Q7H8CF0BE324D9EF7456FC3FA97CB676DCE.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/E/WP/IAM9FDYM2IV1JR2GFX2Q7H.uasset'
+[2025.01.14-16.58.50:342][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/1Q/MQJ8JC9CDWWCPI8J4SZ1PB
+[2025.01.14-16.58.50:342][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/MQJ8JC9CDWWCPI8J4SZ1PBC3E7CCA646CCBAC59E4453B782A71456.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/6/1Q/MQJ8JC9CDWWCPI8J4SZ1PB.uasset'
+[2025.01.14-16.58.50:354][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/B/IH/GETCFPDL786PAZTDDRSMQW
+[2025.01.14-16.58.50:354][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/GETCFPDL786PAZTDDRSMQW4BF74E1F40BECB16AD7348B2C6EAA01C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/B/IH/GETCFPDL786PAZTDDRSMQW.uasset'
+[2025.01.14-16.58.50:365][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/PI/SJJNPVHZK6U9740FKRXXNA
+[2025.01.14-16.58.50:365][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/SJJNPVHZK6U9740FKRXXNA303C24B74938A149D878BEB266AB003B.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/9/PI/SJJNPVHZK6U9740FKRXXNA.uasset'
+[2025.01.14-16.58.50:377][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/QK/PU3SPT1EVE8ZNLFXYF62H3
+[2025.01.14-16.58.50:377][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/PU3SPT1EVE8ZNLFXYF62H373E214E44F1514915E5A36ACCBDACAEF.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/QK/PU3SPT1EVE8ZNLFXYF62H3.uasset'
+[2025.01.14-16.58.50:389][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/0J/W2Z8FN7EF4M5DY58Z2J4RN
+[2025.01.14-16.58.50:389][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/W2Z8FN7EF4M5DY58Z2J4RN1981F5D349E574E39B744D90DB01968C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/0J/W2Z8FN7EF4M5DY58Z2J4RN.uasset'
+[2025.01.14-16.58.50:400][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/HK/7OPVX48ZFX79Y6LEKM5A4L
+[2025.01.14-16.58.50:400][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/7OPVX48ZFX79Y6LEKM5A4L8E5E9CF24E2919B72B3546AFBCE63988.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/HK/7OPVX48ZFX79Y6LEKM5A4L.uasset'
+[2025.01.14-16.58.50:410][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/55/J01AOQIXOUQ05GBBY34CJ0
+[2025.01.14-16.58.50:410][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/J01AOQIXOUQ05GBBY34CJ06517418048203B3B5F185B85672B67FD.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/2/55/J01AOQIXOUQ05GBBY34CJ0.uasset'
+[2025.01.14-16.58.50:421][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/WL/BQQ23MO0QEAW6C74FUSMEZ
+[2025.01.14-16.58.50:421][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/BQQ23MO0QEAW6C74FUSMEZDF8E400F42F765821828D9956BF15C4E.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/3/WL/BQQ23MO0QEAW6C74FUSMEZ.uasset'
+[2025.01.14-16.58.50:433][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/6J/CDDHITPMS1IH7ARUSWZ482
+[2025.01.14-16.58.50:433][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/CDDHITPMS1IH7ARUSWZ48281E5E2494A38CF1B2CE8A8B790E02D72.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/1/6J/CDDHITPMS1IH7ARUSWZ482.uasset'
+[2025.01.14-16.58.50:446][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/AI/BF18HXFKHL8BU0SLMVJ7G4
+[2025.01.14-16.58.50:446][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/BF18HXFKHL8BU0SLMVJ7G49AD766284156B465D6CBE7AF80549A70.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/AI/BF18HXFKHL8BU0SLMVJ7G4.uasset'
+[2025.01.14-16.58.50:457][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/Z4/O4YWZHWGMP0ZRMJ9BB1VI6
+[2025.01.14-16.58.50:457][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/O4YWZHWGMP0ZRMJ9BB1VI6208E42514EF49D0B2FB77F863469B197.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/D/Z4/O4YWZHWGMP0ZRMJ9BB1VI6.uasset'
+[2025.01.14-16.58.50:469][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/EC/IFC0792VRS9VXVN1J70Y4N
+[2025.01.14-16.58.50:469][318]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/IFC0792VRS9VXVN1J70Y4N7EF2B74A4AB9B0ABAD2B67813553116A.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/5/EC/IFC0792VRS9VXVN1J70Y4N.uasset'
+[2025.01.14-16.58.50:487][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 808.871 ms (total: 1:01 min)
+[2025.01.14-16.58.50:631][318]LogContentValidation: Display: Starting to validate 57 assets
+[2025.01.14-16.58.50:631][318]LogContentValidation: Enabled validators:
+[2025.01.14-16.58.50:631][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.14-16.58.50:631][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.14-16.58.50:631][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.14-16.58.50:631][318]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2
+[2025.01.14-16.58.50:634][318]AssetCheck: /Game/ModularEnvironment/ModularEnviroMap2 Validating asset
+[2025.01.14-16.58.50:685][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.14-16.59.02:764][926]Cmd: DUPLICATE
+[2025.01.14-16.59.02:764][926]Cmd: ACTOR DUPLICATE
+[2025.01.14-16.59.50:911][171]Cmd: DUPLICATE
+[2025.01.14-16.59.50:911][171]Cmd: ACTOR DUPLICATE
+[2025.01.14-16.59.52:447][255]Cmd: TRANSACTION UNDO
+[2025.01.14-16.59.52:447][255]LogEditorTransaction: Undo Duplicate Elements
+[2025.01.14-16.59.53:946][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.14-16.59.54:048][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.14-16.59.54:082][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.14-16.59.54:111][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.14-16.59.54:125][290]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/87/CWUPCY0JQRL3MZ8K5H4KEO
+[2025.01.14-16.59.54:127][290]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/CWUPCY0JQRL3MZ8K5H4KEOF92143F44F7E98C93B31648515E5970C.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/C/87/CWUPCY0JQRL3MZ8K5H4KEO.uasset'
+[2025.01.14-16.59.54:139][290]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/ZF/WTS3JJR5FSKK09LKWTVYKD
+[2025.01.14-16.59.54:139][290]LogSavePackage: Moving '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Saved/WTS3JJR5FSKK09LKWTVYKDBA137DA54670235BEFBCA5BAE7983CD9.tmp' to '../../../../../../Users/adelle.ghys/ModularStreet/ModularStreet/Content/__ExternalActors__/ModularEnvironment/ModularEnviroMap2/7/ZF/WTS3JJR5FSKK09LKWTVYKD.uasset'
+[2025.01.14-16.59.54:158][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.540 ms (total: 1:01 min)
+[2025.01.14-16.59.54:232][290]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.14-16.59.54:232][290]LogContentValidation: Enabled validators:
+[2025.01.14-16.59.54:232][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.14-16.59.54:232][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.14-16.59.54:232][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.14-16.59.54:232][290]LogContentValidation: Display: Validating asset /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2
+[2025.01.14-16.59.54:235][290]AssetCheck: /Game/ModularEnvironment/ModularEnviroMap2 Validating asset
+[2025.01.14-17.00.13:881][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.14-17.00.13:942][ 74]LogStall: Shutdown...
+[2025.01.14-17.00.13:951][ 74]LogStall: Shutdown complete.
+[2025.01.14-17.00.14:051][ 74]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.14-17.00.14:241][ 74]LogSlate: Window 'ModularStreet - Unreal Editor' being destroyed
+[2025.01.14-17.00.14:647][ 74]Cmd: QUIT_EDITOR
+[2025.01.14-17.00.14:647][ 74]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.14-17.00.14:659][ 75]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.14-17.00.14:659][ 75]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.14-17.00.14:659][ 75]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.14-17.00.14:947][ 75]LogWorld: UWorld::CleanupWorld for ModularEnviroMap2, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.14:949][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.14:949][ 75]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ModularEnvironment/ModularEnviroMap2.ModularEnviroMap2
+[2025.01.14-17.00.14:958][ 75]LogContentBundle: [ModularEnviroMap2(Standalone)] Deleting container.
+[2025.01.14-17.00.14:964][ 75]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.14-17.00.14:964][ 75]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.14-17.00.14:977][ 75]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.14-17.00.14:996][ 75]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.14:996][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:002][ 75]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:002][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:007][ 75]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:007][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:011][ 75]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:011][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:016][ 75]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:016][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:019][ 75]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:020][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:024][ 75]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:024][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:028][ 75]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:028][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:031][ 75]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:031][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:034][ 75]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:035][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:039][ 75]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:039][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:043][ 75]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:043][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:046][ 75]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:046][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:050][ 75]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:050][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:053][ 75]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:054][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:058][ 75]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:059][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:062][ 75]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:062][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:066][ 75]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:066][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:070][ 75]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:070][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:074][ 75]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:074][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:078][ 75]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:078][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:081][ 75]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:081][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:085][ 75]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:085][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:088][ 75]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:088][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:092][ 75]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:092][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:096][ 75]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:096][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:099][ 75]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:099][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:103][ 75]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:103][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:107][ 75]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:107][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:110][ 75]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:110][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:114][ 75]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:114][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:117][ 75]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:117][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:121][ 75]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:121][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:124][ 75]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:124][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:128][ 75]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:128][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:131][ 75]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:131][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:134][ 75]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:135][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:138][ 75]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:138][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:142][ 75]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:142][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:145][ 75]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:145][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:149][ 75]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:149][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:152][ 75]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:152][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:155][ 75]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:155][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:159][ 75]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:159][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:163][ 75]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:163][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:166][ 75]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:166][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:169][ 75]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:169][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:173][ 75]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:173][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:177][ 75]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:177][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:181][ 75]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:181][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:184][ 75]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:184][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:187][ 75]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:187][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:191][ 75]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:191][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:195][ 75]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:195][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:199][ 75]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:199][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:203][ 75]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:203][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:208][ 75]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:208][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:212][ 75]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:212][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:216][ 75]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:216][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:221][ 75]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:221][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:226][ 75]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-17.00.15:226][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-17.00.15:396][ 75]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.14-17.00.15:404][ 75]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.14-17.00.15:404][ 75]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.14-17.00.15:404][ 75]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.14-17.00.15:412][ 75]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.14-17.00.15:412][ 75]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.14-17.00.15:412][ 75]LogAudio: Display: Audio Device unregistered from world 'ModularEnviroMap2'.
+[2025.01.14-17.00.15:412][ 75]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.14-17.00.15:412][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.14-17.00.15:415][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.14-17.00.15:428][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.14-17.00.15:428][ 75]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.14-17.00.15:430][ 75]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2025.01.14-17.00.15:433][ 75]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.14-17.00.15:433][ 75]LogExit: Preparing to exit.
+[2025.01.14-17.00.15:534][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.01.14-17.00.15:559][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:559][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:563][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:564][ 75]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:565][ 75]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:565][ 75]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.15:565][ 75]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-17.00.16:935][ 75]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.14-17.00.16:993][ 75]LogExit: Editor shut down
+[2025.01.14-17.00.17:004][ 75]LogExit: Transaction tracking system shut down
+[2025.01.14-17.00.17:901][ 75]LogExit: Object subsystem successfully closed.
+[2025.01.14-17.00.17:958][ 75]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.14-17.00.18:817][ 75]MemoryProfiler: Shutdown
+[2025.01.14-17.00.18:817][ 75]NetworkingProfiler: Shutdown
+[2025.01.14-17.00.18:817][ 75]LoadingProfiler: Shutdown
+[2025.01.14-17.00.18:817][ 75]TimingProfiler: Shutdown
+[2025.01.14-17.00.18:997][ 75]LogOpenImageDenoise: OIDN shutting down
+[2025.01.14-17.00.19:346][ 75]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.14-17.00.19:365][ 75]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.14-17.00.19:365][ 75]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FA21568-45B4-7343-4FB0-CD8896B89588%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=2936adc34f6832c1c2bd40be222a32ad%7C579f162adf80434b847c88921116d752%7C5dc8745b-eb56-4874-906a-6851d846b099&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.14-17.00.19:399][ 75]RenderDocPlugin: plugin has been unloaded.
+[2025.01.14-17.00.19:405][ 75]LogPakFile: Destroying PakPlatformFile
+[2025.01.14-17.00.19:946][ 75]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.14-17.00.19:987][ 75]LogExit: Exiting.
+[2025.01.14-17.00.20:031][ 75]Log file closed, 01/14/25 18:00:20
